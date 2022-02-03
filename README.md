@@ -4,7 +4,7 @@ Me and my friends Burak and Mehmet developed Car Rental Management System with J
 
 This application is coded in Java programming language. File system is used for storing data. Database will be integrated soon. <br />
 
-Thanks to my teammates for their contributions: https://github.com/Burakkonuk
+Thanks to my teammates for their contributions: https://github.com/Burakkonuk and https://github.com/mehmettyildizz
 
 ## This app features:
 ***IN SIGN IN/REGISTER PANEL***<br />
