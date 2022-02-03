@@ -2,7 +2,7 @@
 
 Me and my friends Burak and Mehmet developed Car Rental Management System with Java Swing. <br />
 
-This application is coded in Java programming language. File system is used for storing data. Database will integrated soon. <br />
+This application is coded in Java programming language. File system is used for storing data. Database will be integrated soon. <br />
 
 ## This app features:
 ***IN SIGN IN/REGISTER PANEL***<br />
