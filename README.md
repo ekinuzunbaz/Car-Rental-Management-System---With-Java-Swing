@@ -16,16 +16,15 @@ This application is coded in Java programming language. File system is used for 
 -Type of the car (sport, economy etc.) <br />
 -Image of the car <br />
 *Rent a Car <br />
--Enter the rental infos (rent location, rent day etc.)
-*Display Profile Page That Contains User Informations and Rented Cars<br />
+-Enter the rental infos (rent location, rent day etc.) <br />
+*Display Profile Page That Contains User Informations and Rented Cars <br />
 
 
 ***IN ADMIN PANEL***<br />
-*Display All Cars<br />
-*Add Car<br />
--Add car with photo or without photo
+*Display All Cars <br />
+*Add Car <br />
+-Add car with photo or without photo <br />
 *Delete Car <br />
-*Edit Movie's Infos<br />
 *Display All Contracts That Signed So Far <br />
 *Display Most Rented Cars (according to rent times for that car) <br />
-*Delete All Data (permission required)
+*Delete All Data (permission required) <br />
