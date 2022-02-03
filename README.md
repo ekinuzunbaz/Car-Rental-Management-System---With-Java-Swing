@@ -12,12 +12,12 @@ This application is coded in Java programming language. File system is used for 
 ***IN CUSTOMER PANEL***<br />
 *Display All Cars <br />
 -It is available or not <br />
--Rent price <br />
+-Rent price for a day <br />
 -Type of the car (sport, economy etc.) <br />
 -Image of the car <br />
 *Rent a Car <br />
 -Enter the rental infos (rent location, rent day etc.) <br />
-*Display Profile Page That Contains User Informations and Rented Cars <br />
+*Display Profile Page <br />
 
 
 ***IN ADMIN PANEL***<br />
@@ -26,5 +26,5 @@ This application is coded in Java programming language. File system is used for 
 -Add car with photo or without photo <br />
 *Delete Car <br />
 *Display All Contracts That Signed So Far <br />
-*Display Most Rented Cars (according to rent times for that car) <br />
-*Delete All Data (permission required) <br />
+*Display The Most Rented Cars In Descending Order (according to rent times for each car) <br />
+*Delete All Data (permission required!) <br />
