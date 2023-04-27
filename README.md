@@ -6,7 +6,7 @@ This application is coded in Java programming language. File system is used for 
 
 Thanks to my teammates for their contributions: https://github.com/Burakkonuk and https://github.com/mehmettyildizz
 
-##App Features<br />
+## App Features
 ***IN SIGN IN/REGISTER PANEL***<br />
 *Two different redirections are done in sign in panel. Redirect to customer panel or admin panel according to password and username<br />
 *If customer doesn't have an account. He/she can register easily in register panel.
